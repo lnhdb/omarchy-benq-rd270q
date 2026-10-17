@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "lnhdb.benq-rd270q",
+  "name": "BenQ RD270Q",
+  "version": "0.1.0",
+  "author": "Dinh Le",
+  "description": "BenQ RD270Q DDC/CI controls: brightness, Low Blue Light, Night Hours, Visual Optimizer",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BenqPanel.qml" },
+  "barWidget": {
+    "displayName": "BenQ RD270Q",
+    "description": "Brightness, Low Blue Light, Night Hours and Visual Optimizer popup",
+    "category": "Hardware",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
