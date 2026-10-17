@@ -1,5 +1,7 @@
 # BenQ RD270Q for Omarchy
 
+![The plugin's popup in the Catppuccin Latte and Osaka Jade themes](preview.png)
+
 An Omarchy bar widget that controls a BenQ RD270Q monitor. Click the sun icon in the bar to open its popup. The icon turns into a moon while Night Hours Protection is on.
 
 - **Brightness**, 0 to 100. You can also scroll on the icon.
