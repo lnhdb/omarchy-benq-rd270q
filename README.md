@@ -22,6 +22,12 @@ If `ddcutil detect` lists your monitor, you are set. If the command is missing, 
 omarchy plugin add https://github.com/lnhdb/omarchy-benq-rd270q --enable
 ```
 
+To update it to the latest version:
+
+```sh
+omarchy plugin update lnhdb.benq-rd270q
+```
+
 To remove it:
 
 ```sh
